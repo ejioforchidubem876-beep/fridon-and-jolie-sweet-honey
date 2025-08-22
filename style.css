@@ -12,17 +12,17 @@ body{
 }
 header{
 background: #ffcc80;
-padding: 1;
+padding: 1rem;
 text-align: center;
 }
 
 header h1{
-font-size: 2;
-margin-bottom: 0.5;
+font-size: 2rem;
+margin-bottom: 0.5rem;
 }
 
 nav a{
-margin: 0 1;
+margin: 0 1rem;
 text-decoration: none;
 color: #5c3d00;
 font-weight: bold;
@@ -56,17 +56,17 @@ background-color: #d4a100;
 .product-card{
 display: flex;
 background: #fff3e0;
-border: 1 solid #ffe0b2;
-width: 150;
-margin: 1;
-padding: 10;
+border: 1px solid #ffe0b2;
+width: 150px;
+margin: 1rem;
+padding: 10px;
 text-align: center;
-width: 180;
+width: 180px;
 height: auto;
-border-radius: 10;
-box-shadow: 0 2 6 (0,0,0,0,.1);
-margin-bottom: 10;
-box-sizing: 2;
+border-radius: 1opx;
+box-shadow: 0 2px 6px (0,0,0,0,.1);
+margin-bottom: 10px;
+box-sizing: 2rem;
 }
 header fool{
     display: table-row;
@@ -74,13 +74,13 @@ header fool{
 
 .product-card img{
 display: flex;
-width: 2;
-border-radius: 10;
-width: 150;
+width: 20%;
+border-radius: 10px;
+width: 150px;
 height: auto;
-border-radius: 10;
-box-shadow: 0 2 6 (0,0,0,0,.1);
-margin-bottom: 10;
+border-radius: 10px;
+box-shadow: 0 2px 6px (0,0,0,0,.1);
+margin-bottom: 10px;
 }
 
 .about{
