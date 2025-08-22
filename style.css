@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    background-color: #fff8ffe1;
+    color: #5c3d00;
+}
+header{
+background: #ffcc80;
+padding: 1rem;
+text-align: center;
+}
+
+header h1{
+font-size: 2rem;
+margin-bottom: 0.5rem;
+}
+
+nav a{
+margin: 0 1rem;
+text-decoration: none;
+color: #5c3d00;
+font-weight: bold;
+}
+
+.hero{
+background-color: #ffcc80;
+color: red;
+text-align: center;
+padding: 4rem 2rem;
+}
+
+.hero h2{
+font-size: 2.5rem;
+}
+
+.product-grid{
+display: flex;
+justify-content: center;
+gap: 20px;
+flex-wrap: wrap;
+padding: 10px;
+width: 150px;
+height: auto;
+border-radius: 1opx;
+box-shadow: 0 2px 6px (0,0,0,0,.1);
+margin-bottom: 10px;
+background-color: #d4a100;
+}
+
+.product-card{
+display: flex;
+background: #fff3e0;
+border: 1px solid #ffe0b2;
+width: 150px;
+margin: 1rem;
+padding: 10px;
+text-align: center;
+width: 180px;
+height: auto;
+border-radius: 1opx;
+box-shadow: 0 2px 6px (0,0,0,0,.1);
+margin-bottom: 10px;
+box-sizing: 2rem;
+}
+header fool{
+    display: table-row;
+}
+
+.product-card img{
+display: flex;
+width: 20%;
+border-radius: 10px;
+width: 150px;
+height: auto;
+border-radius: 10px;
+box-shadow: 0 2px 6px (0,0,0,0,.1);
+margin-bottom: 10px;
+}
+
+.about{
+padding: 2rem;
+background: #fffde7;
+text-align: center;
+background-color: #fffde7;
+}
+.about h3{
+text-decoration: none;
+color: red;
+transition: color 0.3s ease;
+cursor: pointer
+}
+.about h3 hover{
+color: red;
+text-decoration: underline
+}
+
+.buy-btn{
+background-color: #f5b301;
+color: white;
+border: none;
+padding: 10px 16px;
+margin-top: 10px;
+border-radius: 6px;
+font-weight: bold;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.buy-btn:hover{
+    background-color: #d4a100;
+}
+.buy-btn{
+background-color: #f5b301;
+color: white;
+border: none;
+padding: 10px 16px;
+margin-top: 10px;
+border-radius: 6px;
+font-weight: bold;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.buy-btn:hover{
+    background-color: #d4a100;
+}
+.buy-btn{
+background-color: #f5b301;
+color: white;
+border: none;
+padding: 10px 16px;
+margin-top: 10px;
+border-radius: 6px;
+font-weight: bold;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.buy-btn:hover{
+    background-color: #d4a100;
+}
+.buy-btn{
+background-color: #f5b301;
+color: white;
+border: none;
+padding: 10px 16px;
+margin-top: 10px;
+border-radius: 6px;
+font-weight: bold;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.buy-btn:hover{
+    background-color: #d4a100;
+}
+.buy-btn{
+background-color: #f5b301;
+color: white;
+border: none;
+padding: 10px 16px;
+margin-top: 10px;
+border-radius: 6px;
+font-weight: bold;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.buy-btn:hover{
+    background-color: #d4a100;
+}
+.buy-btn{
+background-color: #f5b301;
+color: white;
+border: none;
+padding: 10px 16px;
+margin-top: 10px;
+border-radius: 6px;
+font-weight: bold;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+.buy-btn:hover{
+    background-color: #d4a100;
+}
+a{
+text-decoration: none;
+color: red;
+transition: color 0.3s ease;
+}
+a:hover{
+color: red;
+text-decoration: underline;
+}
+.buy-btn{
+text-decoration: none;
+color: red;
+transition:color 0.3s ease;
+}
+.buy-btn:hover{
+color: red;
+text-decoration:underline ;
+}
+
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 15px 30px;
+background-color: #fff8e1;
+flex-wrap: wrap;
+}
+.site-title{
+font-size: 20px;
+color:#d2691e;
+margin: 0;
+}
+.nav-links l1 a:hover{
+    color: #f4c542;
+}
+.search-bar{
+padding: 6px 12px;
+border:1px solid #ccc
+}
+
+body{
+margin: 0;
+padding: 0;
+font-family: Arial, Helvetica, sans-serif;
+background-color: #fff8e1;
+}
+header{
+width: 100%;
+background-color: #f5deb3;
+padding: 20px;
+box-shadow: 0 2px 5px rgb(o,o,o,o.1);
+position: relative;
+z-index: 1;
+}
+main{
+flex-direction: column;
+margin: top 20px;
+}
+.wrapper{
+align-self: flex-start;
+margin-left: 40px;
+margin-top: 40px;
+padding: 20px;
+background-color: #ffffff;
+border-radius: 8px;
+box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
